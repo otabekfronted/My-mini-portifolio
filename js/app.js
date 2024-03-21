@@ -86,6 +86,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/tip-calculator",
         vercelLink: "https://tip-calculator-virid-ten.vercel.app/",
     },
+    {
+        title: "Tip calculator",
+        githubLink: "https://github.com/otabekfronted/tip-calculator",
+        vercelLink: "https://tip-calculator-virid-ten.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
