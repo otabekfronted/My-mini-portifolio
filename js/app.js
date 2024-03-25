@@ -91,6 +91,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/tip-calculator",
         vercelLink: "https://tip-calculator-virid-ten.vercel.app/",
     },
+    {
+        title: "American bg video parelax",
+        githubLink: "https://github.com/otabekfronted/america-bg-video-parelax",
+        vercelLink: "https://america-bg-video-parelax.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
