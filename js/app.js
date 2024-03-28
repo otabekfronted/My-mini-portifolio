@@ -96,6 +96,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/america-bg-video-parelax",
         vercelLink: "https://america-bg-video-parelax.vercel.app/",
     },
+    {
+        title: "Castway",
+        githubLink: "https://github.com/otabekfronted/Castway-website",
+        vercelLink: "https://castway-website.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
