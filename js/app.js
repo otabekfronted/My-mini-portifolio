@@ -106,6 +106,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/crowdfunding-web-site",
         vercelLink: "https://crowdfunding-web-site.vercel.app/",
     },
+    {
+        title: "My team web site. Exam",
+        githubLink: "https://github.com/otabekfronted/My-team-web-site.-Exam",
+        vercelLink: "https://my-team-web-site-exam.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
