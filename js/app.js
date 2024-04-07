@@ -101,6 +101,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Castway-website",
         vercelLink: "https://castway-website.vercel.app/",
     },
+    {
+        title: "Crowdfunding web site",
+        githubLink: "https://github.com/otabekfronted/crowdfunding-web-site",
+        vercelLink: "https://crowdfunding-web-site.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
