@@ -116,6 +116,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/YouTube-Createx-Marathon",
         vercelLink: "https://you-tube-createx-marathon.vercel.app/",
     },
+    {
+        title: "My first JavaScript code",
+        githubLink: "https://github.com/otabekfronted/JavaScript-first-code",
+        vercelLink: "https://java-script-first-code.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
