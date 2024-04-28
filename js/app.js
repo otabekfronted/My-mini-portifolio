@@ -133,8 +133,8 @@ const projects = [
     },
     {
         title: "JavaScript lesson 5",
-        githubLink: "https://github.com/otabekfronted/function",
-        vercelLink: "https://function-navy.vercel.app/",
+        githubLink: "https://github.com/otabekfronted/5dars-function",
+        vercelLink: "https://5dars-function.vercel.app/",
     },
 ];
 
