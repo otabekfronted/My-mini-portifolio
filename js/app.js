@@ -136,6 +136,12 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/5dars-function",
         vercelLink: "https://5dars-function.vercel.app/",
     },
+    {
+        title: "Design-page-design-portifolio",
+        githubLink:
+            "https://github.com/otabekfronted/Design-page-design-portifolio",
+        vercelLink: "https://design-page-design-portifolio.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
