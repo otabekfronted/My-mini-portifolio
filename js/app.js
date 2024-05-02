@@ -142,6 +142,11 @@ const projects = [
             "https://github.com/otabekfronted/Design-page-design-portifolio",
         vercelLink: "https://design-page-design-portifolio.vercel.app/",
     },
+    {
+        title: "JavaScript lesson 7",
+        githubLink: "https://github.com/otabekfronted/JavaScript-7-lesson",
+        vercelLink: "https://java-script-7-lesson.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
