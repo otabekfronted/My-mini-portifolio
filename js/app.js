@@ -157,6 +157,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/JavaScript-9-lesson",
         vercelLink: "https://java-script-9-lesson.vercel.app/",
     },
+    {
+        title: "JavaScript lesson 11",
+        githubLink: "https://github.com/otabekfronted/JavaScript-11-lesson",
+        vercelLink: "https://java-script-11-lesson.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
