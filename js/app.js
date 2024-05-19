@@ -162,6 +162,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/JavaScript-11-lesson",
         vercelLink: "https://java-script-11-lesson.vercel.app/",
     },
+    {
+        title: "Modal in Javascript",
+        githubLink: "https://github.com/otabekfronted/Modal-in-JavaScript",
+        vercelLink: "https://modal-in-javascript.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
