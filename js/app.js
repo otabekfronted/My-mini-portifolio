@@ -167,6 +167,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Modal-in-JavaScript",
         vercelLink: "https://modal-in-javascript.vercel.app/",
     },
+    {
+        title: "3 Dars Dom",
+        githubLink: "https://github.com/otabekfronted/3dars",
+        vercelLink: "https://3dars-nine.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
