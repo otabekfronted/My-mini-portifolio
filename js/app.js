@@ -172,6 +172,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/3dars",
         vercelLink: "https://3dars-nine.vercel.app/",
     },
+    {
+        title: "4 Dars Dom",
+        githubLink: "https://github.com/otabekfronted/Drum-kit",
+        vercelLink: "https://drum-kit-pi-five.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
@@ -188,5 +193,5 @@ projects.forEach((project) => {
     linkGithub.href = project.githubLink;
     linkVercel.href = project.vercelLink;
 
-    worksList.appendChild(clone);
+    worksList.prepend(clone);
 });
