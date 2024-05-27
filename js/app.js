@@ -177,6 +177,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Drum-kit",
         vercelLink: "https://drum-kit-pi-five.vercel.app/",
     },
+    {
+        title: "My Guess Number",
+        githubLink: "https://github.com/otabekfronted/my-Guess-Number-Game",
+        vercelLink: "https://my-guess-number-game.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
