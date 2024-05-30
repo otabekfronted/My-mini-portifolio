@@ -182,6 +182,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/my-Guess-Number-Game",
         vercelLink: "https://my-guess-number-game.vercel.app/",
     },
+    {
+        title: "Music player",
+        githubLink: "https://github.com/otabekfronted/Music-Player",
+        vercelLink: "https://music-player-psi-seven.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
