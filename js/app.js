@@ -187,6 +187,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Music-Player",
         vercelLink: "https://music-player-psi-seven.vercel.app/",
     },
+    {
+        title: "Random User",
+        githubLink: "https://github.com/otabekfronted/Random-User",
+        vercelLink: "https://random-user-tan.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
