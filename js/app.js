@@ -188,6 +188,11 @@ const projects = [
         vercelLink: "https://music-player-psi-seven.vercel.app/",
     },
     {
+        title: "Todo List",
+        githubLink: "https://github.com/otabekfronted/Todo-list",
+        vercelLink: "https://todo-list-teal-beta.vercel.app/",
+    },
+    {
         title: "Random User",
         githubLink: "https://github.com/otabekfronted/Random-User",
         vercelLink: "https://random-user-tan.vercel.app/",
