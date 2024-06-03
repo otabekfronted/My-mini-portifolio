@@ -197,6 +197,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Random-User",
         vercelLink: "https://random-user-tan.vercel.app/",
     },
+    {
+        title: "Random User Person",
+        githubLink: "https://github.com/otabekfronted/RandomUser",
+        vercelLink: "https://random-user-tan.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
