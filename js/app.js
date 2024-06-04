@@ -200,7 +200,7 @@ const projects = [
     {
         title: "Random User Person",
         githubLink: "https://github.com/otabekfronted/RandomUser",
-        vercelLink: "https://random-user-tan.vercel.app/",
+        vercelLink: "https://random-user-ans6.vercel.app/",
     },
 ];
 
