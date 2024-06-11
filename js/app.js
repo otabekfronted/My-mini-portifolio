@@ -202,6 +202,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/RandomUser",
         vercelLink: "https://random-user-ans6.vercel.app/",
     },
+    {
+        title: "Weather App",
+        githubLink: "https://github.com/otabekfronted/Wearther-app",
+        vercelLink: "https://wearther-app-five.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
