@@ -207,6 +207,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Wearther-app",
         vercelLink: "https://wearther-app-five.vercel.app/",
     },
+    {
+        title: "Online Shop",
+        githubLink: "https://github.com/otabekfronted/5-Exam",
+        vercelLink: "https://5-exam-phi.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
