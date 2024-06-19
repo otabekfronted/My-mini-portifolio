@@ -212,6 +212,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/5-Exam",
         vercelLink: "https://5-exam-phi.vercel.app/",
     },
+    {
+        title: "Crete User",
+        githubLink: "https://github.com/otabekfronted/create-user",
+        vercelLink: "https://create-user-ten.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
