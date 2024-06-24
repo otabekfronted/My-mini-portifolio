@@ -217,6 +217,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/create-user",
         vercelLink: "https://create-user-ten.vercel.app/",
     },
+    {
+        title: "4 dars",
+        githubLink: "https://github.com/otabekfronted/4dars-",
+        vercelLink: "https://4dars-beryl.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
