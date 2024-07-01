@@ -227,6 +227,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/5-dars",
         vercelLink: "https://5-dars-self.vercel.app/",
     },
+    {
+        title: "Login and Register",
+        githubLink: "https://github.com/otabekfronted/Login-and-Register",
+        vercelLink: "https://login-and-register-five.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
