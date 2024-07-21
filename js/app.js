@@ -232,6 +232,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Login-and-Register",
         vercelLink: "https://login-and-register-five.vercel.app/",
     },
+    {
+        title: "My Kitchen",
+        githubLink: "https://github.com/otabekfronted/My-kitchen",
+        vercelLink: "https://my-kitchen-taupe.vercel.app/register",
+    },
 ];
 
 const template = document.querySelector("template");
