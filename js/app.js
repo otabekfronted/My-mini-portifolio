@@ -237,6 +237,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/My-kitchen",
         vercelLink: "https://my-kitchen-taupe.vercel.app/register",
     },
+    {
+        title: "Desserts",
+        githubLink: "https://github.com/otabekfronted/desserts",
+        vercelLink: "https://desserts-pi.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
