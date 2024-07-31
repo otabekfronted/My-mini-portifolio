@@ -242,6 +242,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/desserts",
         vercelLink: "https://desserts-pi.vercel.app/",
     },
+    {
+        title: "Redux Toolkit with Login and Register",
+        githubLink: "https://github.com/otabekfronted/redux-login-and-register",
+        vercelLink: "https://redux-login-and-register-coral.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
