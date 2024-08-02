@@ -247,6 +247,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/redux-login-and-register",
         vercelLink: "https://redux-login-and-register-coral.vercel.app/",
     },
+    {
+        title: "Quizz",
+        githubLink: "https://github.com/otabekfronted/Quizz",
+        vercelLink: "https://quizz-six-pink.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
