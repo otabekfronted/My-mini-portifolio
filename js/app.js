@@ -252,6 +252,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Quizz",
         vercelLink: "https://quizz-six-pink.vercel.app/",
     },
+    {
+        title: "Next Js Products",
+        githubLink: "https://github.com/otabekfronted/NextJs-Products",
+        vercelLink: "https://next-js-products-pink.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
