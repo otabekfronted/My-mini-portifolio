@@ -260,7 +260,7 @@ const projects = [
     {
         title: "Books",
         githubLink: "https://github.com/otabekfronted/Books",
-        // vercelLink: "https://next-js-products-pink.vercel.app/",
+        vercelLink: "https://books-weld-rho.vercel.app/",
     },
 ];
 
