@@ -257,6 +257,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/NextJs-Products",
         vercelLink: "https://next-js-products-pink.vercel.app/",
     },
+    {
+        title: "Books",
+        githubLink: "https://github.com/otabekfronted/Books",
+        // vercelLink: "https://next-js-products-pink.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
