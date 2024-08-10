@@ -258,9 +258,14 @@ const projects = [
         vercelLink: "https://next-js-products-pink.vercel.app/",
     },
     {
-        title: "Books",
+        title: "Books 8 lesson",
         githubLink: "https://github.com/otabekfronted/Books",
         vercelLink: "https://books-weld-rho.vercel.app/",
+    },
+    {
+        title: "My store 6 dars",
+        githubLink: "https://github.com/otabekfronted/redux-online-shop",
+        vercelLink: "https://redux-online-shop-gilt.vercel.app/",
     },
 ];
 
