@@ -267,6 +267,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/redux-online-shop",
         vercelLink: "https://redux-online-shop-gilt.vercel.app/",
     },
+    {
+        title: "Tickets",
+        githubLink: "https://github.com/otabekfronted/Ticket",
+        vercelLink: "https://ticket-lemon.vercel.app/tickets",
+    },
 ];
 
 const template = document.querySelector("template");
