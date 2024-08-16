@@ -272,6 +272,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Ticket",
         vercelLink: "https://ticket-lemon.vercel.app/tickets",
     },
+    {
+        title: "Store",
+        githubLink: "https://github.com/otabekfronted/Store",
+        vercelLink: "https://store-theta-lyart-26.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
