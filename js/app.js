@@ -275,7 +275,7 @@ const projects = [
     {
         title: "Store",
         githubLink: "https://github.com/otabekfronted/Store",
-        vercelLink: "https://store-theta-lyart-26.vercel.app/",
+        vercelLink: "https://store-three-sand.vercel.app/",
     },
 ];
 
