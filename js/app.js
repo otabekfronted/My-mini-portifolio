@@ -273,15 +273,10 @@ const projects = [
         vercelLink: "https://ticket-lemon.vercel.app/tickets",
     },
     {
-        title: "Store",
+        title: "Imthon",
         githubLink: "https://github.com/otabekfronted/7-Imthon",
         vercelLink: "https://7-imthon.vercel.app",
     },
-    // {
-    //     title: "7 Imthon",
-    //     githubLink: "https://github.com/otabekfronted/7-Imthon",
-    //     vercelLink: "https://7-imthon.vercel.app",
-    // },
 ];
 
 const template = document.querySelector("template");
