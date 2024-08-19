@@ -274,9 +274,14 @@ const projects = [
     },
     {
         title: "Store",
-        githubLink: "https://github.com/otabekfronted/Store",
-        vercelLink: "https://store-three-sand.vercel.app/",
+        githubLink: "https://github.com/otabekfronted/7-Imthon",
+        vercelLink: "https://7-imthon.vercel.app",
     },
+    // {
+    //     title: "7 Imthon",
+    //     githubLink: "https://github.com/otabekfronted/7-Imthon",
+    //     vercelLink: "https://7-imthon.vercel.app",
+    // },
 ];
 
 const template = document.querySelector("template");
