@@ -277,6 +277,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/7-Imthon",
         vercelLink: "https://7-imthon.vercel.app",
     },
+    {
+        title: "7 OY 1-dars. Pagination",
+        githubLink: "https://github.com/otabekfronted/Pagination",
+        vercelLink: "https://pagination-coral-six.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
