@@ -282,6 +282,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/Pagination",
         vercelLink: "https://pagination-coral-six.vercel.app/",
     },
+    {
+        title: "7 OY 3-dars. Pagination",
+        githubLink: "https://github.com/otabekfronted/7-oy-3-dars",
+        vercelLink: "https://pagination-coral-six.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
@@ -299,4 +304,21 @@ projects.forEach((project) => {
     linkVercel.href = project.vercelLink;
 
     worksList.prepend(clone);
+    const experience = document.querySelector(".experience");
+    const startDate = new Date("2024-01-23");
+    const currentDate = new Date();
+    const experienceInMonths =
+        (currentDate.getFullYear() - startDate.getFullYear()) * 12 +
+        (currentDate.getMonth() - startDate.getMonth());
+
+    const years = Math.floor(experienceInMonths / 12);
+    const months = experienceInMonths % 12;
+
+    let experienceText = ` ${years} year${years !== 1 ? "s" : ""}`;
+    if (months > 0) {
+        experienceText += ` and ${months} month${months !== 1 ? "s" : ""}`;
+    }
+
+    experience.textContent = experienceText;
+    // console.log(`Sizning tajribangiz: ${experienceInMonths} oy.`);
 });

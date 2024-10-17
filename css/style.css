@@ -304,3 +304,8 @@ main {
     background-size: cover;
     background-position: center;
 }
+
+.experience {
+    color: #fff;
+    font-weight: bolder;
+}
