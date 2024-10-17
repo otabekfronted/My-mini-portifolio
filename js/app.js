@@ -283,9 +283,9 @@ const projects = [
         vercelLink: "https://pagination-coral-six.vercel.app/",
     },
     {
-        title: "7 OY 3-dars. Pagination",
+        title: "7 OY 3-dars. ",
         githubLink: "https://github.com/otabekfronted/7-oy-3-dars",
-        vercelLink: "https://pagination-coral-six.vercel.app/",
+        vercelLink: "",
     },
 ];
 
