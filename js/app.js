@@ -292,6 +292,11 @@ const projects = [
         githubLink: "https://github.com/otabekfronted/4-dars-FN27",
         vercelLink: "https://4-dars-fn-27.vercel.app/",
     },
+    {
+        title: "7 OY 7-dars. ",
+        githubLink: "https://github.com/otabekfronted/7-oy-7-dars",
+        vercelLink: "https://7-oy-7-dars-omega.vercel.app/",
+    },
 ];
 
 const template = document.querySelector("template");
