@@ -294,8 +294,8 @@ const projects = [
     },
     {
         title: "7 OY 7-dars. ",
-        githubLink: "https://github.com/otabekfronted/7-oy-7-dars",
-        vercelLink: "https://7-oy-7-dars-omega.vercel.app/",
+        githubLink: "https://github.com/otabekfronted/7-oy-7-darss",
+        vercelLink: "https://7-oy-7-darss.vercel.app/",
     },
 ];
 
