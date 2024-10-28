@@ -305,7 +305,8 @@ main {
     background-position: center;
 }
 
-.experience {
+.experience,
+.lenght {
     color: #fff;
     font-weight: bolder;
 }
