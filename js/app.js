@@ -304,6 +304,10 @@ const projects = [
     },
 ];
 
+const lenght = document.querySelector(".lenght");
+const websiteLenght = projects.length;
+lenght.textContent = websiteLenght;
+
 const template = document.querySelector("template");
 const worksList = document.querySelector(".works__list");
 
@@ -335,5 +339,6 @@ projects.forEach((project) => {
     }
 
     experience.textContent = experienceText;
+
     // console.log(`Sizning tajribangiz: ${experienceInMonths} oy.`);
 });
